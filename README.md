@@ -22,7 +22,7 @@ This document outlines the interview structure for the primary problem: **QR-Bas
 **Interviewer:** Andrés Caballero
 **General Objective:** To deeply understand the processes, frustrations, and needs of customers and staff during the purchase of drinks, food, or tickets in a high-traffic environment to validate the need for a digital solution.
 
-### A. Introduction & Warm-up (5 minutes)
+### Introduction & Warm-up
 * **Purpose:** To build rapport, establish a comfortable atmosphere, and understand the interviewee's general context.
 
 | Question | Purpose of the Question |
@@ -30,7 +30,7 @@ This document outlines the interview structure for the primary problem: **QR-Bas
 | 1. To start, could you tell me a bit about yourself? (If a customer: How often do you come here or to similar places? If staff: What is your role, and how long have you been working here?) | To understand the interviewee's profile and their level of experience with the problem's environment. |
 | 2. Can you describe a typical weekend night at this venue from your perspective? What words would you use to describe the atmosphere? | To set the scene and evoke the emotions and sensations associated with the experience. |
 
-### B. Problem Exploration & Current Process (15 minutes)
+### Problem Exploration & Current Process (15 minutes)
 * **Purpose:** To map the current user journey and identify specific friction points, delays, and frustrations.
 
 | Question | Purpose of the Question |
@@ -40,7 +40,7 @@ This document outlines the interview structure for the primary problem: **QR-Bas
 | 5. Have you ever had an issue with an order (it was wrong, took too long, payment problems)? Could you tell me about it? | To collect specific anecdotes that reveal hidden problems or the consequences of current inefficiencies. |
 | 6. **(For Staff/Admin)** How do you manage peak demand? What tools, if any, do you currently use to manage orders and payments? | To understand the operational challenges and the limitations of current tools (or the lack thereof). |
 
-### C. Proposed Solution Validation (10 minutes)
+### Proposed Solution Validation
 * **Purpose:** To neutrally introduce the core concept of the solution and gather initial reactions, ideas, and potential barriers to adoption.
 
 | Question | Purpose of the Question |
@@ -49,7 +49,7 @@ This document outlines the interview structure for the primary problem: **QR-Bas
 | 8. What benefits do you think a system like this could have? And what drawbacks or problems would you be concerned about (e.g., payment security, people cutting the line, tech failures)? | To identify perceived benefits (for marketing) and barriers/concerns (to be solved in the design phase). |
 | 9. How comfortable would you be using a system like this to pay? Is there any feature you would consider essential? | To gauge the willingness for tech adoption and capture key functional requirements from the user's perspective. |
 
-### D. Closing (5 minutes)
+### Closing
 * **Purpose:** To thank the interviewee and leave the door open for future collaboration.
 
 | Question | Purpose of the Question |
